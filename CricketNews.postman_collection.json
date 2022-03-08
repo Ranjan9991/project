@@ -1,0 +1,193 @@
+{
+	"info": {
+		"_postman_id": "c0d040f8-a325-4151-82b2-3faa398da1ff",
+		"name": "CricketNews",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					]
+				},
+				"description": "get all url"
+			},
+			"response": []
+		},
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com/news",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com/news",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"news"
+					]
+				},
+				"description": "News"
+			},
+			"response": []
+		},
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com/testresult",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com/testresult",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"testresult"
+					]
+				},
+				"description": "testResult"
+			},
+			"response": []
+		},
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com/test",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com/odi",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"odi"
+					]
+				},
+				"description": "test"
+			},
+			"response": []
+		},
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com/odi",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com/odi",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"odi"
+					]
+				},
+				"description": "odi"
+			},
+			"response": []
+		},
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com/t20",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com/t20",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"t20"
+					]
+				},
+				"description": "t20"
+			},
+			"response": []
+		},
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com/details",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com/details",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"details"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com/quiz",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com/quiz",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"quiz"
+					]
+				},
+				"description": "quiz"
+			},
+			"response": []
+		},
+		{
+			"name": "https://floating-sierra-10509.herokuapp.com/match",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://floating-sierra-10509.herokuapp.com/match",
+					"protocol": "https",
+					"host": [
+						"floating-sierra-10509",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"match"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
